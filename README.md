@@ -17,7 +17,7 @@ I'm an experienced software engineer with a B.S. in Computer Science and some ha
 
 I'm currently employed writing features and fixes for a legacy finance software stack, but I make time to design and build my own projects for the sake of learning and staying well-rounded. My pride and joy is [battlebot](https://github.com/jakethedev/beatbattlebot), a DiscordJS bot that facilitates music competitions with deadlines, voting, and other neat stuff - new features are prioritized by upcoming Discord events, check out the [issue milestones](https://github.com/jakethedev/beatbattlebot/milestones) for more information. This bot is currently live in multiple servers, including one community of ~3000 people running multiple beat battles per month. I'm also the sole SRE of battlebot, and I'm proud of its uptime 😄
 
-If you like the work I'm doing and want to support it, feel free to pick up an open issue and open a PR<!--, or throw a few bucks in my [guitar case](https://jakebelowmusic.com/tip-jar)-->
+<!--If you like the work I'm doing and want to support it, feel free to make a PR for an open issue in the battlebot repo, or if you're feeling generous you can always throw a few bucks in my [guitar case](https://jakebelowmusic.com/tip-jar)-->
 
 ---
 
