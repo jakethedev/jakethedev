@@ -21,7 +21,7 @@ If you like the work I'm doing and want to support it, feel free to pick up an o
 
 ---
 
-## Selection of Cool Problems I've Solved
+## Selection of Interesting Projects I've Worked On
 
 ### [Beatbattlebot](https://github.com/jakethedev/beatbattlebot) (open source, active development ✨)
 - Voting: parsing and counting a ballot of votes from a single discord message was a tricky problem to solve, especially from a UX perspective
@@ -31,7 +31,12 @@ If you like the work I'm doing and want to support it, feel free to pick up an o
 - User experience: CLI UX for users that have never used a CLI is a continuous challenge
 - Semi-custom test suite: I'm using Jest as the core framework, but DiscordJS doesn't seem to have any mock objects, so I'm building out generators for common types such as users and messages
 
-### Python 2 and 3 CI/CD Pipeline (work done for a previous employer)
+### Version Management and Deploy Tooling (previous employment)
+- General maintenance: from features to failures, the standard dev experience
+- Improved workflows: provided an easier way to create new projects while making the code path easier to maintain
+- Python support: integrated the Python CI/CD work listed below, includes building out the deploy process
+
+### Python 2 and 3 CI/CD Pipeline (previous employment)
 - Libraries and templates: developed central logging and system property access libraries; built project templates for CLI and Flask applications
 - Leading design decisions: regularly conferred with experts and users of the system to make decisions that fit the problem best, not just my internal version of the problem
 - Testability: using Docker made this fairly straightforward, but was a significant learning process of its own
