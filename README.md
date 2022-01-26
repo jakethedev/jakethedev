@@ -23,7 +23,8 @@ I'm currently employed writing features and fixes for a legacy finance software 
 
 ## Selection of Interesting Projects I've Worked On
 
-### [Beatbattlebot](https://github.com/jakethedev/beatbattlebot) (open source, active development ✨)
+<!-- ### [Beatbattlebot](https://github.com/jakethedev/beatbattlebot) (open source, active development ✨) -->
+### Beatbattlebot (closed source, active development ✨)
 - Voting: parsing and counting a ballot of votes from a single discord message was a tricky problem to solve, especially from a UX perspective
 - Podium tie-breaking: currently implementing a way to change the tie-break algorithm per server, allowing choices such as "earliest submission" or "random"
 - Auto-deployment: using systemd and cron to automate the deploy in a highly secure fashion
