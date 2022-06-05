@@ -49,34 +49,54 @@ I'm currently employed writing features and fixes for a legacy finance software 
 
 ## Tech Specs
 
-#### Known for: 
+### Known for: 
 - Maintainable code focused on pragmatism over cleverness
 - Being a rock solid teammate with a can-do attitude that asks the right questions
 - Effective technical communication to people at all levels of technical experience
 - Strong problem solving, design, and architecture skills
 - Picking up new tech and paradigms at a rapid pace
-- And I can write some excellent documentation 
+- Giving kind and useful feedback at tactful times such as pull requests and peer reviews
+- Handling feedback with positivity and a self-improving attitude
+- Writing some killer documentation 
 
-#### Expert with:
-- Java and JavaScript (ES6)
-- Docker and CI/CD tech/processes
-- Debian Linux / Bash / VIM (comfortable in any IDE)
-- Git workflow and administration
-
-#### Learning: 
-- Audio plugin development using C++ and JUCE (passion projects)
-- VueJS, Nuxt, TailwindCSS (jakethedev.com rewrite: this is paused in progress, expect the site to be broken for now)
+### Currently Learning: 
+- C++, Unreal 5, and JUCE (advanced game development and audio plugins)
+- VueJS, Nuxt, TailwindCSS (possible tech blog website)
 - Golang (various dayjob projects)
 
-#### Actively using:
+### Actively using:
 - PHP, Make, Kafka, Apache, Nginx, Bamboo (various dayjob projects)
 - JavaScript, NodeJS (battlebot)
 - Debian, Bash, Git
 
-#### Significant experience using: 
-- C, Python 3, Angular, TypeScript
-- Tomcat, Apache2 + plugins, Nginx, ExpressJS
-- Jenkins, Gitlab, most Atlassian tools (Bamboo, Bitbucket, Jira, etc)
-- Puppet, Virtual Machines, Kubernetes
-- MySQL, PostgreSQL, MongoDB
+### Expert with:
+- Holistic approaches to engineering
+- Writing maintainable code
+- Java | Maven | JavaScript | NPM
+- Debian Linux | Bash | VIM (Custom)
+- Github | Jenkins | Bamboo | CI/CD
+- Devops and workflow optimization
+- Leadership skills and inclusion
+- Mentoring and teaching others
+- Giving constructive feedback
+- Receiving criticism optimistically
+- Collaboration and problem solving
+- Handling vague requirements
+- Applying new knowledge quickly
+- Staying cool under pressure
 
+### Experienced with:
+- Docker | Kubernetes | AWS EC2
+- Node.js | HTML5 | CSS3 | PHP
+- C | Golang | Python 3 | Android
+- MySQL | PostgreSQL | MongoDB
+- Apache | Nginx | Networking
+- Project Design | Architecture
+- OOD and Database Design
+- UI/UX Design and Graphics
+
+### Additional highlights:
+- Strong remote work skills
+- Excited to learn new technology
+- Can connect well with any team
+- A/V production and editing
