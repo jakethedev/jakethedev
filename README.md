@@ -15,7 +15,7 @@ For a big ol banner image:
 
 I'm an experienced software engineer with a B.S. in Computer Science and some handy devops and leadership skills. I've enjoyed writing and teaching software since 2014, and I focus on communication, teamwork, and pragmatism. I heard once that "you should write code like the next maintainer knows where you live", and that one just really stuck with me.
 
-I'm currently employed writing features and fixes for a legacy finance software stack, but I make time to design and build my own projects for the sake of learning and staying well-rounded. My pride and joy is my (usually closed-source) [battlebot](https://github.com/jakethedev/beatbattlebot), a DiscordJS bot that facilitates music competitions with deadlines, voting, and other neat stuff - new features are prioritized by upcoming Discord events, check out the [issue milestones](https://github.com/jakethedev/beatbattlebot/milestones) for more information. This bot is currently live in multiple servers, including one community of ~3000 people running multiple beat battles per month. I'm also the sole SRE of battlebot, and I'm proud of its 99.x% uptime 😄
+I'm currently employed writing features and fixes for a 3D shed configurator SaaS, but I make time to design and build my own projects for the sake of learning and staying well-rounded. My pride and joy is my (deprecated) [battlebot](https://github.com/jakethedev/beatbattlebot), a DiscordJS bot that facilitates music competitions with deadlines, voting, and other neat stuff - new features are prioritized by upcoming Discord events, check out the [issue milestones](https://github.com/jakethedev/beatbattlebot/milestones) for more information. This bot is currently live in multiple servers, including one community of ~3000 people running multiple beat battles per month. I'm also the sole SRE of battlebot, and I'm proud of its 99.x% uptime 😄 I mention that it's deprecated as I plan to rebuild the bot in Golang with a fully-featured web frontend, complete with Oauth and public battle participation and voting. I'd also like to start building a real game for release on Steam soon, likely with Unreal Engine, so this may stay on the backburner for a while.
 
 <!--If you like the work I'm doing and want to support it, feel free to make a PR for an open issue in the battlebot repo, or if you're feeling generous you can always throw a few bucks in my [guitar case](https://jakebelowmusic.com/tip-jar)-->
 
@@ -24,13 +24,13 @@ I'm currently employed writing features and fixes for a legacy finance software 
 ## Selection of Interesting Projects I've Worked On
 
 <!-- ### [Beatbattlebot](https://github.com/jakethedev/beatbattlebot) (open source, active development ✨) -->
-### Beatbattlebot (closed source, active development ✨)
+### Beatbattlebot (discord music-community event software ✨)
 - Voting: parsing and counting a ballot of votes from a single discord message was a tricky problem to solve, especially from a UX perspective
-- Podium tie-breaking: currently implementing a way to change the tie-break algorithm per server, allowing choices such as "earliest submission" or "random"
 - Auto-deployment: using systemd and cron to automate the deploy in a highly secure fashion
 - Project management: organizing and prioritizing tasks has become a critical skill as I've progressed my vision for what this bot can be
 - User experience: CLI UX for users that have never used a CLI is a continuous challenge
 - Semi-custom test suite: I'm using Jest as the core framework, but DiscordJS doesn't seem to have any mock objects, so I'm building out generators for common types such as users and messages
+- Future goals: A fully featured site with an excellent voting UX design and no barrier to entry for competitors and event holders
 
 ### Version Management and Deploy Tooling (previous employment)
 - General maintenance: from features to failures, the standard dev experience
@@ -43,7 +43,7 @@ I'm currently employed writing features and fixes for a legacy finance software 
 - Testability: using Docker made this fairly straightforward, but was a significant learning process of its own
 
 ### [Minesweeper Clone](https://github.com/jakethedev/minesweeper-java) (side project from long ago)
-- Auto-clearing open spaces: I made a point to figure this out without help, and I'm sure the algorithm could be more efficient, but it seems to work fast enough
+- Auto-clearing open spaces: I made a point to figure this out without help, which was a huge level-up in undergrad, now it's just a fun accomplishment to share
 
 ---
 
@@ -60,14 +60,14 @@ I'm currently employed writing features and fixes for a legacy finance software 
 - Writing some killer documentation 
 
 ### Currently Learning: 
-- C++, Unreal 5, and JUCE (advanced game development and audio plugins)
-- VueJS, Nuxt, TailwindCSS (possible tech blog website)
-- Golang (various dayjob projects)
+- C++, Unreal 5 (modern game development)
+- React.js, Redux, and Serverless (work projects)
+- Golang (various personal projects)
 
-### Actively using:
-- PHP, Make, Kafka, Apache, Nginx, Bamboo (various dayjob projects)
-- JavaScript, NodeJS (battlebot)
-- Debian, Bash, Git
+### Active Technologies:
+- Administrator for several AWS services including EC2, Lambda, S3, Dynamo, IAM, ACM, and others (various dayjob projects)
+- JavaScript, React, Redux, NodeJS (work projects and battlebot)
+- Debian, Bash, Git (just daily typing)
 
 ### Expert with:
 - Holistic approaches to engineering
@@ -100,3 +100,4 @@ I'm currently employed writing features and fixes for a legacy finance software 
 - Excited to learn new technology
 - Can connect well with any team
 - A/V production and editing
+- Capable with music production, mixing, and a six-string
