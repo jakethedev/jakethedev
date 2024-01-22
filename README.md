@@ -15,7 +15,8 @@ For a big ol banner image:
 
 I'm an experienced software engineer with a B.S. in Computer Science and some handy devops and leadership skills. I've enjoyed writing and teaching software since 2014, and I focus on communication, teamwork, and pragmatism. I heard once that "you should write code like the next maintainer knows where you live", and that one just really stuck with me.
 
-I'm currently employed writing features and fixes for a 3D shed configurator SaaS, but I make time to design and build my own projects for the sake of learning and staying well-rounded. My pride and joy is my (deprecated) [battlebot](https://github.com/jakethedev/beatbattlebot), a DiscordJS bot that facilitates music competitions with deadlines, voting, and other neat stuff - new features are prioritized by upcoming Discord events, check out the [issue milestones](https://github.com/jakethedev/beatbattlebot/milestones) for more information. This bot is currently live in multiple servers, including one community of ~3000 people running multiple beat battles per month. I'm also the sole SRE of battlebot, and I'm proud of its 99.x% uptime 😄 I mention that it's deprecated as I plan to rebuild the bot in Golang with a fully-featured web frontend, complete with Oauth and public battle participation and voting. I'd also like to start building a real game for release on Steam soon, likely with Unreal Engine, so this may stay on the backburner for a while.
+I'm currently employed writing features and fixes for a 3D shed configurator SaaS, but I make time to design and build my own projects for the sake of learning and staying well-rounded. My pride and joy is my [battlebot](https://github.com/jakethedev/beatbattlebot), a DiscordJS bot that facilitates music competitions with deadlines, voting, and other neat stuff - new features are prioritized by upcoming Discord events and user's choice, check out the [issue milestones](https://github.com/jakethedev/beatbattlebot/milestones) for more information. This bot is currently live in multiple servers, including one community of ~3000 people running multiple beat battles per month. I'm also the sole SRE of battlebot, and I'm proud of its 99.x% uptime 😄
+> The current plan is to significantly upgrade the bot with a fully-featured web frontend for submission and voting, a proper database with a backup, and complete it with Oauth and public battle participation and voting. I'd also like to start building a real game for release on Steam soon, likely with Unreal Engine, but for now the battle site is my big side project goal
 
 <!--If you like the work I'm doing and want to support it, feel free to make a PR for an open issue in the battlebot repo, or if you're feeling generous you can always throw a few bucks in my [guitar case](https://jakebelowmusic.com/tip-jar)-->
 
@@ -28,7 +29,7 @@ I'm currently employed writing features and fixes for a 3D shed configurator Saa
 - Voting: parsing and counting a ballot of votes from a single discord message was a tricky problem to solve, especially from a UX perspective
 - Auto-deployment: using systemd and cron to automate the deploy in a highly secure fashion
 - Project management: organizing and prioritizing tasks has become a critical skill as I've progressed my vision for what this bot can be
-- User experience: CLI UX for users that have never used a CLI is a continuous challenge
+- User experience: CLI UX for users that have never used a CLI is a continuous challenge, which will be solved by overhauling the bot to work as a website
 - Semi-custom test suite: I'm using Jest as the core framework, but DiscordJS doesn't seem to have any mock objects, so I'm building out generators for common types such as users and messages
 - Future goals: A fully featured site with an excellent voting UX design and no barrier to entry for competitors and event holders
 
@@ -61,13 +62,13 @@ I'm currently employed writing features and fixes for a 3D shed configurator Saa
 
 ### Currently Learning: 
 - C++, Unreal 5 (modern game development)
-- React.js, Redux, and Serverless (work projects)
+- React/TypeScript, Redux, and AWS topics like Lambda and API Gateway (work projects)
 - Golang (various personal projects)
 
 ### Active Technologies:
-- Administrator for several AWS services including EC2, Lambda, S3, Dynamo, IAM, ACM, and others (various dayjob projects)
+- Several AWS services including EC2, Lambda, S3, Dynamo, IAM, ACM, and others (various dayjob projects)
 - JavaScript, React, Redux, NodeJS (work projects and battlebot)
-- Debian, Bash, Git (just daily typing)
+- Ubuntu, Bash, Git (just daily typing)
 
 ### Expert with:
 - Holistic approaches to engineering
