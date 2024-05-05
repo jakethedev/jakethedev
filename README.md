@@ -4,12 +4,12 @@
 NOTES
 
 For a big ol banner image:
+-->
 <div align="center">
 	<br>
-		<img src="banner-image.svg">
+		<img src="gh-segfault-mixer-banner.png">
 	<br>
 </div>
--->
 
 # Hi, I'm Jake! 👋
 
@@ -20,8 +20,8 @@ If you're here for the [Discord Battlebot](https://github.com/jakethedev/beatbat
 ---
 
 ### Expert with:
-- Holistic approaches to engineering
-- Writing maintainable code
+- Writing maintainable/testable code
+- Quickly learning new languages and systems
 - Java | Maven | JavaScript | NPM
 - Debian Linux | Bash | VIM (Custom)
 - Github | Jenkins | Bamboo | CI/CD
