@@ -7,7 +7,7 @@ For a big ol banner image:
 -->
 <div align="center">
 	<br>
-		<img src="gh-segfault-mixer-banner.png">
+		<img src="someday-a-good-banner.png">
 	<br>
 </div>
 
