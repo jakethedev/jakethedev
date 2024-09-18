@@ -4,12 +4,14 @@
 NOTES
 
 For a big ol banner image:
--->
+
 <div align="center">
 	<br>
 		<img src="someday-a-good-banner.png">
 	<br>
 </div>
+
+-->
 
 # Hi, I'm Jake! 👋
 
